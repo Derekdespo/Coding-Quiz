@@ -1,0 +1,20 @@
+body {
+    background-image: url("./seoulwall.jpg");
+}
+.container {
+    background-color: cornflowerblue;
+    padding: 10px;
+    text-align: center;
+    color:snow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 130px;
+    box-shadow: rgba(0, 0, 0, 0.55) 2px 8px 20px 2px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+button {
+    font-size: x-large;
+}
